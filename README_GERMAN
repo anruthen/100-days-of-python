@@ -1,0 +1,55 @@
+# 📘 100 Days of Python (Deutsch)
+
+Willkommen zu meinem Lernprojekt **"100 Days of Python"** – ein täglicher Programmierkurs (by Angela Yu auf udemy.com) zur Festigung von Python-Grundlagen und -Fortgeschrittenenwissen anhand praktischer Mini-Projekte.  
+Jeder Tag enthält eine Aufgabenbeschreibung und kurze Zusammenfassungen, was ich gelernt habe.
+
+## 📅 Übersicht
+
+### 🟢 Day 1 – Band Name Generator  
+**Beschreibung:** Benutzer geben eine Stadt und einen Haustiernamen ein – das Programm generiert daraus einen Bandnamen.  
+**Gelernt:** `print()`, `input()`, String-Verkettung, Einrückung, Thonny-Debugging, Kommentare, `len()`.
+
+### 🟢 Day 2 – Tip Calculator  
+**Beschreibung:** Rechnet den zu zahlenden Betrag pro Person bei einer Gruppenrechnung inkl. Trinkgeld.  
+**Gelernt:** Index-Zugriff, negative Indizes, Tausendertrennzeichen, Type Casting, `round()`, `f-strings`.
+
+### 🟢 Day 3 – Treasure Island  
+**Beschreibung:** Textbasiertes Abenteuer-Spiel mit Entscheidungsbäumen.  
+**Gelernt:** `if/elif/else`, logische Operatoren, verschachtelte Bedingungen, `%` Operator.
+
+### 🟢 Day 4 – Rock, Paper, Scissors  
+**Beschreibung:** Schere-Stein-Papier-Spiel gegen den Computer.  
+**Gelernt:** `random`, `choice()`, `randint()`, Listenmanipulation.
+
+### 🟢 Day 5 – Password Generator  
+**Beschreibung:** Generiert sichere Passwörter auf Basis benutzerdefinierter Kriterien.  
+**Gelernt:** `for`-Schleifen, `range()`, `shuffle()`, `"".join(list)`.
+
+### 🟢 Day 6 – Functions Basics  
+**Beschreibung:** Erste eigene Funktionen erstellen (z. B. Hürdenlauf-Spiel).  
+**Gelernt:** Funktionsdefinition und -aufruf.
+
+### 🟢 Day 7 – Hangman  
+**Beschreibung:** Umsetzung des Klassikers Hangman mit ASCII-Art.  
+**Gelernt:** Auslagern von Listen/ASCII-Art, dynamische Listen z. B. `["_"] * len(word)`.
+
+### 🟢 Day 8 – Caesar Cipher  
+**Beschreibung:** Verschlüsselung und Entschlüsselung per Caesar-Chiffre.  
+**Gelernt:** Argumente, Positions-/Keyword-Args, kreative Fehlerbehandlung.
+
+### 🟢 Day 9 – Blind Auction  
+**Beschreibung:** Blinde Auktion – Benutzer geben Gebote ab, höchste gewinnt.  
+**Gelernt:** Dictionaries, verschachtelte Strukturen, Input-Handling.
+
+### 🟢 Day 10 – Calculator  
+**Beschreibung:** Rechenmaschine mit weiterem Rechnen auf vorherigem Ergebnis.  
+**Gelernt:** Rückgabewerte, Funktions-Dictionaries, Docstrings, verkürzte Bedingungen.
+
+### 🟢 Day 11 – Blackjack  
+**Beschreibung:** Umsetzung des Kartenspiels Blackjack inkl. Ass-Wertung und PC-Logik.  
+**Gelernt:** Spiellogik, Punktwertberechnung, flexible Ass-Wertung, Strukturierung über Funktionen.
+
+## 🚀 Ziel
+
+Das Ziel ist es, über 100 Tage hinweg regelmäßig Python zu lernen und dabei kontinuierlich Projekte zu entwickeln und zu verbessern.
+"""
