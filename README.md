@@ -49,7 +49,10 @@ Each day comes with a description and a short summary of what I learned.
 **Description:** Full blackjack implementation with flexible Ace handling and PC logic.  
 **Learned:** Game logic, score calculation, conditional flows, clean function separation.
 
+### 🟢 Day 12 – Number Guessing Game
+**Description: User guesses a random number within limited attempts. Difficulty setting adjusts tries.
+**Learned: Scope (local/global), block scope differences (Python vs. C++), namespaces, constant naming conventions.
+
 ## 🚀 Goal
 
 The goal is to continuously build Python knowledge over 100 days by developing and improving real, hands-on projects.
-"""
