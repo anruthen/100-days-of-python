@@ -49,7 +49,10 @@ Jeder Tag enthält eine Aufgabenbeschreibung und kurze Zusammenfassungen, was ic
 **Beschreibung:** Umsetzung des Kartenspiels Blackjack inkl. Ass-Wertung und PC-Logik.  
 **Gelernt:** Spiellogik, Punktwertberechnung, flexible Ass-Wertung, Strukturierung über Funktionen.
 
+### 🟢 Tag 12 – Zahlenratespiel
+**Beschreibung:** Der Benutzer errät eine zufällige Zahl mit begrenzten Versuchen. Der Schwierigkeitsgrad bestimmt die Anzahl der Versuche.
+**Gelernt:** Scope (lokal/global), Unterschiede bei Blockscopes (Python vs. C++), Namespaces, Konventionen zur Benennung von Konstanten.
+
 ## 🚀 Ziel
 
 Das Ziel ist es, über 100 Tage hinweg regelmäßig Python zu lernen und dabei kontinuierlich Projekte zu entwickeln und zu verbessern.
-"""
