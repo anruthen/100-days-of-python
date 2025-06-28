@@ -50,8 +50,8 @@ Each day comes with a description and a short summary of what I learned.
 **Learned:** Game logic, score calculation, conditional flows, clean function separation.
 
 ### 🟢 Day 12 – Number Guessing Game
-**Description: User guesses a random number within limited attempts. Difficulty setting adjusts tries.
-**Learned: Scope (local/global), block scope differences (Python vs. C++), namespaces, constant naming conventions.
+**Description:** User guesses a random number within limited attempts. Difficulty setting adjusts tries.<br>
+**Learned:** Scope (local/global), block scope differences (Python vs. C++), namespaces, constant naming conventions.
 
 ## 🚀 Goal
 
