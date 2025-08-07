@@ -53,6 +53,10 @@ Jeder Tag enthält eine Aufgabenbeschreibung und kurze Zusammenfassungen, was ic
 **Beschreibung:** Der Benutzer errät eine zufällige Zahl mit begrenzten Versuchen. Der Schwierigkeitsgrad bestimmt die Anzahl der Versuche.
 **Gelernt:** Scope (lokal/global), Unterschiede bei Blockscopes (Python vs. C++), Namespaces, Konventionen zur Benennung von Konstanten.
 
+### 🟢 Tag 14 – Higher Lower  
+**Beschreibung:** Raten, welche zufällig gewählte Person mehr Instagram-Follower hat – solange bis man falsch liegt.  
+**Gelernt:** Arbeiten mit Dictionaries, Spielschleifen, modularer Code, Nutzereingaben verarbeiten, zufällige Datenauswahl.
+
 ## 🚀 Ziel
 
 Das Ziel ist es, über 100 Tage hinweg regelmäßig Python zu lernen und dabei kontinuierlich Projekte zu entwickeln und zu verbessern.
