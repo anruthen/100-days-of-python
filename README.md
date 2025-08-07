@@ -53,6 +53,10 @@ Each day comes with a description and a short summary of what I learned.
 **Description:** User guesses a random number within limited attempts. Difficulty setting adjusts tries.<br>
 **Learned:** Scope (local/global), block scope differences (Python vs. C++), namespaces, constant naming conventions.
 
+### 🟢 Day 13 – Debugging  
+**Description:** Focused on identifying, understanding, and fixing bugs in existing Python code using debugging tools and logical analysis.  
+**Learned:** Debugging techniques, use of breakpoints and watches, print-based debugging, identifying syntax and logic errors, reasoning through code flow.
+
 ### 🟢 Day 14 – Higher Lower  
 **Description:** Compare Instagram followers of random public figures in a continuous guessing game.  
 **Learned:** Dictionary handling, game loops, function modularity, user input validation, randomized data handling.
