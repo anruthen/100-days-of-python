@@ -55,7 +55,7 @@ Jeder Tag enthält eine Aufgabenbeschreibung und kurze Zusammenfassungen, was ic
 
 ### 🟢 Tag 13 – Debugging  
 **Beschreibung:** Fokus auf das Erkennen, Verstehen und Beheben von Fehlern in bestehendem Python-Code mithilfe von Debugging-Tools und logischem Denken.  
-**Gelernt:** Debugging-Strategien, Einsatz von Breakpoints und Watches, Debugging mit print(), Syntax- und Logikfehler erkennen, Codefluss nachvollziehen.
+**Gelernt:** Debugging-Strategien, Einsatz von Breakpoints und Watches, `try`/`except`, Debugging mit print(), Syntax- und Logikfehler erkennen, Codefluss nachvollziehen.
 
 ### 🟢 Tag 14 – Higher Lower  
 **Beschreibung:** Raten, welche zufällig gewählte Person mehr Instagram-Follower hat – solange bis man falsch liegt.  
