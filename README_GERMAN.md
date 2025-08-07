@@ -53,6 +53,10 @@ Jeder Tag enthält eine Aufgabenbeschreibung und kurze Zusammenfassungen, was ic
 **Beschreibung:** Der Benutzer errät eine zufällige Zahl mit begrenzten Versuchen. Der Schwierigkeitsgrad bestimmt die Anzahl der Versuche.
 **Gelernt:** Scope (lokal/global), Unterschiede bei Blockscopes (Python vs. C++), Namespaces, Konventionen zur Benennung von Konstanten.
 
+### 🟢 Tag 13 – Debugging  
+**Beschreibung:** Fokus auf das Erkennen, Verstehen und Beheben von Fehlern in bestehendem Python-Code mithilfe von Debugging-Tools und logischem Denken.  
+**Gelernt:** Debugging-Strategien, Einsatz von Breakpoints und Watches, Debugging mit print(), Syntax- und Logikfehler erkennen, Codefluss nachvollziehen.
+
 ### 🟢 Tag 14 – Higher Lower  
 **Beschreibung:** Raten, welche zufällig gewählte Person mehr Instagram-Follower hat – solange bis man falsch liegt.  
 **Gelernt:** Arbeiten mit Dictionaries, Spielschleifen, modularer Code, Nutzereingaben verarbeiten, zufällige Datenauswahl.
